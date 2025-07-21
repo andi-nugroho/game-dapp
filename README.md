@@ -28,7 +28,7 @@ I build Token Staking contract designed to facilitate token staking for a specif
 
 I have my own ERC20 named "ZexoToken" The contract interacts with an ERC-20 token contract "ZexoToken" allowing users to stake and claim rewards using these tokens. includes functionality for transferring tokens, checking balances, and storing information about token holders.
 
-Buy ANToken in here: [zexo-cash-dapp.vercel.app/](https://zexo-cash-dapp.vercel.app/)
+Buy ANToken in here: [https://github.com/andi-nugroho/game-dapp/](https://github.com/andi-nugroho/game-dapp/)
 ```
 10days contract : 0xfcA3FDebe57B543fE454AB320a18448732f44a99
 365days contract : 0xb5BFB747Df6816C76a042b8FdD5f63872013b7a7
