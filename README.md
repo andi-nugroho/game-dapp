@@ -2,7 +2,8 @@
 
 Build web3 Dapp "Token Stacking Dapp Project", in which we can provide users to stack their ERC20 token and earn reward, we can also provide multiple token stacking contract.
 
-![image](https://github.com/andi-nugroho/game-dapp/blob/master/assets/preview/home.png)
+<img width="1715" height="836" alt="home" src="https://github.com/user-attachments/assets/1f3f2477-ef1b-4d08-88b5-a2503ad5518c" />
+
 ## Holesky Network
 The Holesky testnet will be replacing the Goerli testnet. It is planned to be the new testing environment for protocol developments, infrastructures, and developments related to consensus staking. Alongside Sepolia, Holesky will become the primary testing environment for developers on Ethereum.
 
